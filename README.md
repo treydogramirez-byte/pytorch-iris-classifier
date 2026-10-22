@@ -24,3 +24,4 @@ A small neural network built with PyTorch that predicts iris flower species from
 1. Run `python -m pip install -r requirements.txt`
 2. Keep `iris_demo.csv` in the same folder as the notebook
 3. Run the cells top to bottom in Jupyter
+
